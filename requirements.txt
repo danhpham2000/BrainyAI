@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langgraph
+openai
+pinecone
+python-dotenv
+langchain-openai
