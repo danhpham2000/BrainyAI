@@ -1,4 +1,4 @@
 .streamlit
 chromastore
 .env
-./.venv
+.venv
